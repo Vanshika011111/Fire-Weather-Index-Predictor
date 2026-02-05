@@ -1,4 +1,8 @@
-flask
+pandas
 numpy
+matplotlib
+seaborn
 scikit-learn
-gunicorn
+tensorflow
+plotly
+pickle
